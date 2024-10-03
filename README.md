@@ -1,51 +1,32 @@
 
 
-# 👋 Hello, I'm Susena Venkatesh Nathan!
+# 👋 Hi, I'm Susena Venkatesh Nathan!
 
-Welcome to my GitHub profile! I’m passionate about harnessing the power of **Artificial Intelligence, Data Analytics, and Software Engineering** to create solutions that contribute to the **betterment of humanity**. I believe that technology, when used thoughtfully, can solve complex challenges, empower individuals, and improve the quality of life for people around the world.
+Welcome! I'm passionate about **AI, Data Analytics, and Software Engineering** to create impactful solutions that contribute to a better world. I believe in the power of technology to solve complex challenges and improve lives.
 
 ## 🌱 About Me
-- 🎓 I am currently pursuing a **Bachelor of Technology in Artificial Intelligence and Data Science** at Shiv Nadar University Chennai, and I am set to graduate in August 2026.
-- 💡 I am fascinated by how **AI** and **Data Science** can make a real impact—from healthcare innovations to personalized education.
-- 🛠️ I enjoy exploring **machine learning, deep learning, and software development**, focusing on building impactful, real-world projects.
-- 🤖 My dream is to develop innovative solutions that promote fairness, inclusivity, and accessibility, ensuring that everyone can benefit from technological progress.
+- 🎓 Pursuing **B.Tech in AI and Data Science** at Shiv Nadar University Chennai, graduating in August 2026.
+- 💡 Fascinated by **AI** and **Data Science**, from healthcare to personalized education.
+- 🛠️ Focused on building **machine learning, deep learning**, and software projects with real-world impact.
 
-## 🚀 Projects and Experience
-Throughout my journey, I have worked on numerous projects and gained professional experience that reflects my interest in AI and software development:
+## 🚀 Projects & Experience
+- 📄 **OCR & Text Summarization App**: Built a Flask app for extracting and summarizing text from images.
+- 🩺 **Lung Cancer Detection**: Developed a CNN achieving **98% accuracy** in early lung cancer detection.
+- 🔒 **Face Authentication**: Created a Python-based system for secure web access.
+- 🏨 **Hotel Management System**: Java-based system for efficient room and service management.
 
-### 🌟 Projects
-- 📄 **OCR and Text Summarization Web Application**: Developed a Flask-based app that extracts and summarizes text from images using OCR technology and NLP models.
-- 🩺 **Lung Cancer Detection using CNNs**: Built an advanced Convolutional Neural Network to achieve an impressive 98% accuracy in detecting early-stage lung cancer.
-- 🔒 **Face Authentication for Web Application Access**: Created a Python-based facial recognition system that controls web application access, ensuring enhanced security.
-- 🏨 **Hotel Management System**: Developed a Java-based hotel management system using OOP principles for efficient room and service management.
+### 💼 Internships
+- **Intern Lead (July - August 2024)**: Led a team, managed tasks, designed solutions, and deployed on **AWS/Azure**.
+- **AI/ML Intern at DigiAlert Ltd. (May - June 2024)**: Developed an AI-based data leakage prevention product, automated CI/CD, and built analytics dashboards.
+- **AI & DS Intern at Infysec Ltd. (December 2023)**: Built **95% accurate** anomaly detection models and automated responses for cybersecurity.
 
+## 💼 Skills
+- **Languages**: Python, Java, C, HTML, CSS, JavaScript
+- **Frameworks/Tools**: Flask, TensorFlow, OpenCV, Pandas, Tableau
+- **Cloud**: Google Cloud APIs, AWS, Azure
 
-### 💼 Internship Experience
-- **Intern Lead (July 2024 - August 2024)**:
-  - Guided a team in task allocation, performance, and technical decisions.
-  - Assisted in product definition, design, and cloud deployment on **AWS/Azure**.
-  - Managed backlogs, mentored the team, and oversaw **Git** repository management.
-
-- **AI/ML Product Development Intern at DigiAlert Ltd. (May 2024 - June 2024)**:
-  - Developed an AI-based data leakage prevention product using **NLP, Regular Expressions**, Python, and JavaScript.
-  - Created CI/CD pipelines and a real-time analytics dashboard with **Dash**.
-  - Led a team in product improvements and deployment on **AWS/Azure**.
-
-- **Artificial Intelligence and Data Science Intern at Infysec Ltd. (December 2023)**:
-  - Built anomaly detection models with **95% accuracy** for email ecosystems.
-  - Deployed dashboards using **Grafana** and automated cybersecurity responses with AI on **Wazuh**.
-
-These internships provided me with a hands-on understanding of developing AI-based products, optimizing systems, and enhancing their scalability—preparing me for future challenges in the tech industry.
-
-## 💼 Skills and Technologies
-- **Programming Languages**: Python, Java, C, HTML, CSS, JavaScript
-- **Frameworks and Tools**: Flask, TensorFlow, Keras, OpenCV, NumPy, Pandas, Tableau, and more
-- **Cloud Technologies**: Google Cloud APIs, AWS, Azure
-
-## 🌐 Let's Connect
-I am always eager to collaborate on interesting projects, learn about emerging technologies, and connect with others who share my passion for technology's potential to change the world.
-
-- 📧 Email: [susena22110292@snuchennai.edu.in](mailto:susena22110292@snuchennai.edu.in)
+## 🌐 Connect with Me
+- 📧 [Email](mailto:susena22110292@snuchennai.edu.in)
 - 🌍 [LinkedIn](https://www.linkedin.com/in/susena-venkatesh-nathan/)
 
-Thank you for stopping by! Feel free to explore my projects or reach out if you'd like to collaborate. Together, let's make a difference through technology! 😊✨
+Thanks for visiting! Let’s collaborate and make a difference through technology! 😊✨
