@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I’m passionate about harnessing the power of **A
 - 🎓 I am currently pursuing a **Bachelor of Technology in Artificial Intelligence and Data Science** at Shiv Nadar University Chennai, and I am set to graduate in August 2026.
 - 💡 I am fascinated by how **AI** and **Data Science** can make a real impact—from healthcare innovations to personalized education.
 - 🛠️ I enjoy exploring **machine learning, deep learning, and software development**, focusing on building impactful, real-world projects.
-- 🤖 My dream is to develop AI solutions that promote fairness, inclusivity, and accessibility, ensuring that everyone can benefit from technological progress.
+- 🤖 My dream is to develop innovative solutions that promote fairness, inclusivity, and accessibility, ensuring that everyone can benefit from technological progress.
 
 ## 🚀 Projects and Experience
 Throughout my journey, I have worked on numerous projects and gained professional experience that reflects my interest in AI and software development:
@@ -19,27 +19,21 @@ Throughout my journey, I have worked on numerous projects and gained professiona
 - 🔒 **Face Authentication for Web Application Access**: Created a Python-based facial recognition system that controls web application access, ensuring enhanced security.
 - 🏨 **Hotel Management System**: Developed a Java-based hotel management system using OOP principles for efficient room and service management.
 
+
 ### 💼 Internship Experience
-- ** Intern Lead ** (July 2024 - August 2024)
-  - Team Management: Spearheaded a team,  guiding and overseeing all team tasks, including task allocation and performance.
-  - Product Definition: Assisted the product owner in defining features and adding enhanced features to the product.
-  - Product Design & Architecture: Designed the product and its software architecture, ensuring alignment with strategic goals.
-  - Cloud Deployment: Oversaw the deployment of scalable solutions on AWS/Azure.
-  - Strategy & Execution: Developed strategies, managed backlogs, and advocated for users.
-  - Technical Leadership: Mentored the team, enforced coding standards, and guided technical decisions.
-  - Repository Management: Managed and owned the Git repository, ensuring version control and collaboration.
+- **Intern Lead (July 2024 - August 2024)**:
+  - Guided a team in task allocation, performance, and technical decisions.
+  - Assisted in product definition, design, and cloud deployment on **AWS/Azure**.
+  - Managed backlogs, mentored the team, and oversaw **Git** repository management.
 
-- **AI/ML Product Development Intern at DigiAlert Ltd.** (May 2024 - June 2024):
-  - Developed an AI-based data leakage prevention product using **NLP, Regular Expressions, Transformers**, Python, and JavaScript.
-  - Created automated CI/CD pipelines to facilitate seamless software integration and delivery.
-  - Built a real-time data analytics dashboard using Dash for effective visualization of security metrics.
-  - Led a team as **Intern Lead**, handling task allocation, performance oversight, and guiding software architecture design.
-  - Oversaw the deployment of scalable solutions on **AWS and Azure**, and advocated for strategic product improvements.
+- **AI/ML Product Development Intern at DigiAlert Ltd. (May 2024 - June 2024)**:
+  - Developed an AI-based data leakage prevention product using **NLP, Regular Expressions**, Python, and JavaScript.
+  - Created CI/CD pipelines and a real-time analytics dashboard with **Dash**.
+  - Led a team in product improvements and deployment on **AWS/Azure**.
 
-- **Artificial Intelligence and Data Science Intern at Infysec Ltd.** (December 2023):
-  - Leveraged AI and ML for real-time and offline anomaly detection in email ecosystems, achieving a **95% accuracy rate**.
-  - Developed and deployed real-time data visualization dashboards using **Grafana** on Azure and AWS.
-  - Automated responses for cybersecurity incidents using an AI & ML engine on open-source SIEM logs (Wazuh).
+- **Artificial Intelligence and Data Science Intern at Infysec Ltd. (December 2023)**:
+  - Built anomaly detection models with **95% accuracy** for email ecosystems.
+  - Deployed dashboards using **Grafana** and automated cybersecurity responses with AI on **Wazuh**.
 
 These internships provided me with a hands-on understanding of developing AI-based products, optimizing systems, and enhancing their scalability—preparing me for future challenges in the tech industry.
 
@@ -53,6 +47,5 @@ I am always eager to collaborate on interesting projects, learn about emerging t
 
 - 📧 Email: [susena22110292@snuchennai.edu.in](mailto:susena22110292@snuchennai.edu.in)
 - 🌍 [LinkedIn](https://www.linkedin.com/in/susena-venkatesh-nathan/)
-- 💻 [GitHub](https://github.com/Susena-V)
 
 Thank you for stopping by! Feel free to explore my projects or reach out if you'd like to collaborate. Together, let's make a difference through technology! 😊✨
