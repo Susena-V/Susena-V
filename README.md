@@ -2,11 +2,6 @@
 
 Welcome to my GitHub! I'm passionate about **AI, Data Science**, **Software Development**, and **Competitive Programming**, always striving to create impactful and innovative solutions.  
 
-## 🌟 Interests  
-- 🧠 **Artificial Intelligence**: Building intelligent systems to tackle real-world problems.  
-- 📊 **Data Science**: Extracting meaningful insights through analytics and modeling.  
-- 💻 **Software Development**: Developing efficient, scalable applications using **Node.js**, **React.js**, and **Flask**.  
-- 🎯 **Competitive Programming**: Solving algorithmic challenges to sharpen problem-solving skills.  
 
 ## 🛠️ Skills  
 - **Languages**: Python, Java, C, JavaScript, HTML, CSS  
