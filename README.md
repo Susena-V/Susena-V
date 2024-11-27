@@ -1,18 +1,15 @@
+
 # 👋 Hi, I'm Susena Venkatesh Nathan  
 
-Welcome to my GitHub! I'm passionate about **AI, Data Science**, **Software Development**, and **Competitive Programming**, always striving to create impactful and innovative solutions.  
-
+Welcome to my GitHub! I’m passionate about **AI, Data Science**, and **Software Development**, with interests in **multimodal AI**, **NLP**, **computer vision**, **anomaly detection**, and building efficient, scalable systems. I love solving complex problems and creating impactful, innovative solutions.  
 
 ## 🛠️ Skills  
-- **Languages**: Python, Java, C, JavaScript, HTML, CSS  
-- **Frameworks**: Node.js, React.js, Flask, TensorFlow, OpenCV  
-- **Tools**: Pandas, Matplotlib, Tableau, Google Cloud, AWS, Azure  
-- **Algorithms**: Experienced in data structures, dynamic programming, and optimization techniques.  
+Proficient in **Python**, **Java**, **JavaScript**, **Node.js**, **React**, **TensorFlow**, **PyTorch**, **OpenCV**, and **Hugging Face**, with experience in **data structures**, **algorithms**, and cloud platforms like **AWS** and **Google Cloud**.  
 
 ## 🌱 Always Learning  
-I’m dedicated to mastering new technologies and improving my problem-solving abilities to build cutting-edge solutions.  
+I’m continuously exploring the latest advancements in **AI technologies** and **software development** to design smarter, more efficient solutions.  
 
 ### 🌐 Let’s Connect  
 - 🌍 [LinkedIn](https://www.linkedin.com/in/susena-venkatesh-nathan/)  
 
-Let’s collaborate and build something amazing! 😊✨  
+Let’s collaborate and create something amazing! 😊✨  
