@@ -11,6 +11,6 @@ Proficient in **Python**, **Java**, **JavaScript**, **Node.js**, **React**, **Te
 I’m continuously exploring the latest advancements in **AI technologies** and **software development** to design smarter, more efficient solutions.  
 
 ###  💜✨  Let’s Connect  
-- 🌍 [LinkedIn](https://www.linkedin.com/in/susena-venkatesh-nathan/)  
+- [LinkedIn](https://www.linkedin.com/in/susena-venkatesh-nathan/)  
 
 Let’s collaborate and create something amazing!  💜✨  
