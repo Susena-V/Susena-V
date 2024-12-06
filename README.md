@@ -7,7 +7,7 @@ Welcome to my GitHub! I’m passionate about **AI, Data Science**, and **Softwar
 ##  💜✨  Skills  
 Proficient in **Python**, **Java**, **JavaScript**, **Node.js**, **React**, **TensorFlow**, **PyTorch**, **OpenCV**, and **Hugging Face**, with experience in **data structures**, **algorithms**, and cloud platforms like **AWS** and **Google Cloud**.  
 
-## 🌱 💜✨  Always Learning  
+## 💜✨  Always Learning  🌱 
 I’m continuously exploring the latest advancements in **AI technologies** and **software development** to design smarter, more efficient solutions.  
 
 ###  💜✨  Let’s Connect  
