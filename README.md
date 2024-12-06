@@ -1,4 +1,4 @@
-![Pretty Background](MysticalLand.png)
+![Pretty Background](BGPretty.jpg)
 
 # 👋 Hi, I'm Susena  
 
