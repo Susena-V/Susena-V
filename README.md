@@ -1,4 +1,4 @@
-![Pretty Background](BGPretty.jpg)
+![Pretty Background](WowBg.jpg)
 
 # 👋 Hi, I'm Susena  
 
