@@ -1,5 +1,6 @@
+![Project Image](/Pretty BG.jpeg)
 
-# 👋 Hi, I'm Susena Venkatesh Nathan  
+# 👋 Hi, I'm Susena  
 
 Welcome to my GitHub! I’m passionate about **AI, Data Science**, and **Software Development**, with interests in **multimodal AI**, **NLP**, **computer vision**, **anomaly detection**, and building efficient, scalable systems. I love solving complex problems and creating impactful, innovative solutions.  
 
