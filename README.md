@@ -1,4 +1,4 @@
-![Project Image](/Pretty BG.jpeg)
+![Pretty Background](Pretty Bg.jpeg)
 
 # 👋 Hi, I'm Susena  
 
