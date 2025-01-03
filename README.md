@@ -2,7 +2,7 @@
 
 ![Pretty Background](WowBg.jpg)
 
-# 💜✨ Hi, I'm Susena
+<h1 align = "center" > 💜✨ Hi, I'm Susena </h1> 
 
 Welcome to my corner of the tech world! I'm here to build bold, innovative, and game-changing solutions. Whether it's through AI, Competitive Programming, or Software Development, I thrive on turning complex problems into simple, creative solutions that have the potential to reshape the world.
 
