@@ -14,11 +14,7 @@ Here's a way to present your skills and tools with a touch of creativity:
 
 ---
 
-![Python Logo](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C Logo](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
-![Java Logo](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![JavaScript Logo](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![TensorFlow Logo](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Python Logo](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C Logo](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  ![Java Logo](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  ![JavaScript Logo](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![TensorFlow Logo](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 
 ---
 ![Pretty Background](WowBg.jpg)
