@@ -10,4 +10,16 @@ Take a look around at my projects to see how I apply all of these ideas in actio
 
 I dream of building things that don’t just make an impact — they spark a revolution. AI, technology, and innovation are my tools; the future is my canvas. Let’s leave a mark! 💜✨
 
+Here's a way to present your skills and tools with a touch of creativity:
+
+---
+
+![Python Logo](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C Logo](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
+![Java Logo](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![JavaScript Logo](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TensorFlow Logo](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Keras Logo](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=
+
+---
 ![Pretty Background](WowBg.jpg)
