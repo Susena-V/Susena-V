@@ -10,8 +10,7 @@ Welcome to my git repo where I push anything and everything that I do!
 - I want to do things right and use my brain.
 - My skills: Data Science, ML, DL and some System Design
 - A uni student with no time and all the time, I want to do what makes me feel like me.
-- Let's connect if we have anything in common and do work we both will enjoy -  work that can change the world.
-- Oh yeah and finally, I want to make things that can change the world, so ride along or watch from the sides.
+- Let's connect if we have anything in common and do work we both will enjoy -  work that can change the world (this is my dream).
 
 ---
 ![Pretty Background](WowBg.jpg)
