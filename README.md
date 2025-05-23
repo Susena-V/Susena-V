@@ -11,8 +11,7 @@ Welcome to my git repo where I push anything and everything that I do!
 - A uni student with no time and all the time, I want to do what makes me feel like me.
 - Trying to do things right and analyze and think (in short I wanna use my brainpower)
 - I want to change the world - somehow and leave a lasting impact - that is positive.
-- You feel this too? - Let's conenct! :)
-
+  
 ---
 ![Pretty Background](WowBg.jpg)
 ---
