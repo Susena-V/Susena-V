@@ -1,9 +1,9 @@
 
-<h1 align = "center" > 💜✨ Why, hello there! I'm Susena </h1> 
+<h1 align = "center" >I'm Susena! </h1> 
 
 Welcome to my git repo where I push anything and everything that I do!
 
-## About me
+## About me  💜✨
 
 - A uni student with no time and all the time, I want to do what makes me happy.
 - I like a lot of things, I try to do said lot of things, some work out and some don't but I did do it in the end.
