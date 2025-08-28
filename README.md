@@ -14,5 +14,3 @@ Welcome to my git repo where I push anything and everything that I do!
 ---
 ![Pretty Background](WowBg.jpg)
 ---
-
-_DISCLAIMER: My best work is currently private_
